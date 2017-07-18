@@ -1,0 +1,9 @@
+$color-fondo: green;
+$rojo: red;
+body{
+  background-color: $color-fondo;
+  & p{
+    margin: 0 auto;
+    color: $rojo;
+  }
+}

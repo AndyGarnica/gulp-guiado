@@ -1,0 +1,1 @@
+!function(){!function(n){console.info(n,",saludos")}(function(n){return n}("Andy"))}();
